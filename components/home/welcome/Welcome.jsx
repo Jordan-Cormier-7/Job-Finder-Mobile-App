@@ -32,6 +32,7 @@ const Welcome = () => {
             value=""
             onChange={() => {}}
             placeholder="What are you looking for?"
+            placeholderTextColor="#A9A9A9"
           />
         </View>
 
